@@ -1,0 +1,25 @@
+#class1{
+    width: 45%;
+    float: left;
+}
+
+.p1{
+    padding: 190px 0 190px 900px;
+    font-size: 50px;
+    background-color: #2d2d2d;
+    color: snow;
+    margin-bottom: 5px;
+}
+
+#class2{
+    width: 45%;
+    float: right;
+}
+
+.p2{
+    padding: 190px 0 190px 200px;
+    font-size: 50px;
+    background-color: #2d2d2d;
+    color: snow;
+    margin-bottom: 5px;
+}
